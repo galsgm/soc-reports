@@ -1,6 +1,5 @@
 
 # 🛡 SOC Security Operations Report
-<img width="412" height="222" alt="image" src="https://github.com/user-attachments/assets/60ab6192-d846-41b0-b2c1-7721a860e35d" />
 
 ## 📌 Overview
 This report summarizes the security monitoring activities, findings, and incident response actions performed by the Security Operations Center (SOC) during the reporting period.
