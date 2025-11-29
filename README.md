@@ -1,4 +1,3 @@
-
 # 🛡 SOC Security Operations Report
 
 ## 📌 Overview
@@ -10,6 +9,7 @@ This report summarizes the security monitoring activities, findings, and inciden
 | Reporting Period | 01/11/2025 – 25/11/2025 |
 | Prepared By | SOC Analyst Team |
 | Review Cycle | Weekly |
+| [picture1] (צילום מסך 2025-04-04 172633.png)
 
 ---
 
